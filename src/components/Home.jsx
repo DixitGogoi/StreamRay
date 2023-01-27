@@ -16,7 +16,7 @@ const headingOptions = {
   textTransform: 'uppercase',
   p: '4',
   size: '4xl',
-  borderRadius: '50%'
+  // borderRadius: '50%'
 };
 
 const Home = () => {
